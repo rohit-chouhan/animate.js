@@ -39,7 +39,9 @@ animate.apply({
 	repeat:1 // 1, 2, 3, 4, 'infinite'
 });
  ```
-### Complete Example
+### Complete Example Code
+Try Link Test <a href="https://jsfiddle.net/e9a1rm7x/">https://jsfiddle.net/e9a1rm7x</a>
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -69,3 +71,4 @@ animate.apply({
 </html>
 ```
  
+Developed by <a href="https://rohitchouhan.com">Rohit Chouhan</a>
