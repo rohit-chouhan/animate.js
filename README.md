@@ -7,7 +7,7 @@ Apply amazing animation to your HTML5 elemets easily using JavaScript<br>
  ### Installation
  Include the Animate.css CDN inside your head tag.
   ```html
-<link ref="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" type="text/css">
 ```
 
 Then add our <b>animate.js</b> CDN also
@@ -33,7 +33,7 @@ Then add our <b>animate.js</b> CDN also
 //Example
 animate.apply({
 	selector:'#text', 
-	style:'animate__backInDown',
+	style:'animate__rubberBand',
 	delay:1, // 1, 2, 3, 4 
 	speed:'slow', // 'slow', 'slower', 'fast', 'faster'
 	repeat:1 // 1, 2, 3, 4, 'infinite'
@@ -41,6 +41,31 @@ animate.apply({
  ```
 ### Complete Example
 ```html
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Animate.js</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" type="text/css" />
+	<script src="https://cdn.jsdelivr.net/gh/rohit-chouhan/animate.js/animate.js"></script>
+    </head>
+    <body>
+        <center>
+            <h1 id="text">Animate Me</h1>
+            <br />
+            <button onclick="myfun()">Animate the Text</button>
+        </center>
+    </body>
+    <script>
+        function myfun() {
+            animate.apply({
+                selector: "#text",
+                style: "animate__rubberBand",
+                delay: 1,
+                speed: "fast",
+                repeat: 1,
+            });
+        }
+    </script>
+</html>
 ```
  
