@@ -19,5 +19,5 @@
     "url": "https://github.com/rohit-chouhan/animate.js/issues"           
  },                                                                        
   "homepage": "https://github.com/rohit-chouhan/animate.js#readme",      
-  "_publishConfig": { "registry": "https://npm.pkg.github.com/" }    
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }    
  }
