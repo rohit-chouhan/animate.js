@@ -40,7 +40,7 @@ animate.apply({
 });
  ```
 ### Complete Example Code
-Try Link Test <a href="https://jsfiddle.net/e9a1rm7x/">https://jsfiddle.net/e9a1rm7x</a>
+Try Live Test <a href="https://jsfiddle.net/e9a1rm7x/">https://jsfiddle.net/e9a1rm7x</a>
 
 ```html
 <!DOCTYPE html>
