@@ -10,7 +10,7 @@ Apply amazing animation to your HTML5 elemets easily using JavaScript<br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" type="text/css">
 ```
 
-Then add our <b>animate.js</b> CDN also
+Then add our <b>animate.js</b> CDN also, powered by <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/JsDelivr_Logo.svg/1200px-JsDelivr_Logo.svg.png"/>
   ```html
 <script src="https://cdn.jsdelivr.net/gh/rohit-chouhan/animate.js/animate.js"></script>
 ```
