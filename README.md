@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/Qt6Yb4Gm/WgYIPblo.gif"/><br>
-Apply amazing animation to your HTML5 elements easily using JavaScript<br>
+Apply amazing animation to your HTML5 elements easily using JavaScript/JS<br>
   <b>This framework is based on <a href="https://github.com/animate-css/animate.css">animate.css</a></b>
   </p>
   
