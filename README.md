@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/Qt6Yb4Gm/WgYIPblo.gif"/><br>
-Apply amazing animation to your HTML5 elements easily using JavaScript/JS<br>
+animate.js is a tiny JavaScript library that provides a convenient way to apply Animate.css powered CSS animations to DOM elements without writing any CSS.<br>
   <b>This framework is based on <a href="https://github.com/animate-css/animate.css">animate.css</a></b>
   </p>
   
